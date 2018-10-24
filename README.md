@@ -1,2 +1,4 @@
-# simple-tic-tac-toe-game
-A simple Tic Tac Toe game using HTML, CSS and JavaScript
+# Simple TIC-TAC-TOE
+A simple Tic-Tac-Toe game built using HTML, CSS and JavaScript
+
+Codepen: https://codepen.io/Nitin-Chandran-Nair/full/KoYmgb/
